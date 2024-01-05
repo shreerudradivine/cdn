@@ -16,3 +16,5 @@ Content delivery network (CDN)
 | `${filename}` | `string` | Eg: `image.png` |
 
 
+https://github.com/shreerudradivine/cdn
+
